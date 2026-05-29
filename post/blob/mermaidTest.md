@@ -11,20 +11,6 @@ graph TD
     D --> E
 ```
 
-## 时序图
-
-```mermaid
-sequenceDiagram
-    participant 用户
-    participant 系统
-    participant 数据库
-
-    用户->>系统: 发送请求
-    系统->>数据库: 查询数据
-    数据库-->>系统: 返回结果
-    系统-->>用户: 显示响应
-```
-
 ## 甘特图
 
 ```mermaid
