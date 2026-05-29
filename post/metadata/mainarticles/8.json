@@ -6,8 +6,8 @@
     "comment": 0,
     "view": 0,
     "link": "8",
-    "kaTex": true,
-    "mermaid":false,
+    "kaTex": false,
+    "mermaid":true,
     "echart":false,
     "href": "blob/mermaidTest.md",
     "tag":["测试"]
