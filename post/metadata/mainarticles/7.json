@@ -6,9 +6,9 @@
     "comment": 0,
     "view": 0,
     "link": "7",
-    "kaTex": true,
+    "kaTex": false,
     "mermaid":false,
-    "echart":false,
+    "echart":true,
     "href": "blob/echarTest.md",
     "tag":["测试"]
 }
