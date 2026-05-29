@@ -7,7 +7,7 @@
     "view": 0,
     "link": "6",
     "kaTex": true,
-    "mermaid"false,
+    "mermaid":false,
     "echart":false,
     "href": "blob/test2.md",
     "tag":["随笔"]
